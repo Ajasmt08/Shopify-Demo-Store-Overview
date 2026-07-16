@@ -115,7 +115,7 @@ This follows Shopify development best practices by:
 
 ## Home Page
 
-![Home Page](screenshots/hme.png)
+![Home Page](screenshots/home.png)
 
 ---
 
