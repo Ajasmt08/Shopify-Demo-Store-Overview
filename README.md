@@ -111,3 +111,20 @@ This follows Shopify development best practices by:
 - Providing a quick rollback option if required.
 ---
 
+# Screenshots
+
+## Home Page
+
+![Home Page](screenshots/hme.png)
+
+---
+
+## Product Page
+
+![Product Page](screenshots/product.png)
+
+---
+
+## Shop / Collection Page
+
+![Shop Page](screenshots/shop.png)
