@@ -9,7 +9,7 @@ A demo Shopify eCommerce store was created for **GreenNest Plants**, an online p
 
 ## Store URL
 
-**URL:** [https://your-store-url.myshopify.com](https://jiuh0b-e2.myshopify.com/)
+**URL:** [https://jiuh0b-e2.myshopify.com/](https://jiuh0b-e2.myshopify.com/)
 
 ---
 
